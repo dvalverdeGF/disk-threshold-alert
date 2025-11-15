@@ -115,7 +115,4 @@ Puedes revisar el historial de alertas allí.
 * Enviar alertas cuando el disco **baje de un umbral** para notificar recuperación.
 * Integración con otros canales (Telegram, Discord, Teams).
 
----
-
-¿Quieres que haga también la **versión del README con instrucciones de instalación automática por cron y prueba de alerta forzada** lista para copiar y pegar en GitHub?
 
